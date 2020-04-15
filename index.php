@@ -2,9 +2,9 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - web_20200413</title>
+  <title>webfeladat</title>
   <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Josefin+Sans&family=Merriweather&display=swap" rel="stylesheet"><link rel="stylesheet" href="./style.css">
-
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <!-- partial:index.partial.html -->
